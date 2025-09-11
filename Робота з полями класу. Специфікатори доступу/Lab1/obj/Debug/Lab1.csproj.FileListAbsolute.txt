@@ -1,0 +1,50 @@
+C:\KirillKNUTD\OOП.LAB\Lab1\bin\Debug\Lab1.exe.config
+C:\KirillKNUTD\OOП.LAB\Lab1\bin\Debug\Lab1.exe
+C:\KirillKNUTD\OOП.LAB\Lab1\bin\Debug\Lab1.pdb
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.Form1.resources
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.exe
+C:\KirillKNUTD\OOП.LAB\Lab1\obj\Debug\Lab1.pdb
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\bin\Debug\Lab1.exe.config
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\bin\Debug\Lab1.exe
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\bin\Debug\Lab1.pdb
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.exe
+C:\KirillKNUTD\OOП.LAB\Laboratorna 1\Lab1\obj\Debug\Lab1.pdb
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.exe
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.pdb
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\bin\Debug\Lab1.exe.config
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\bin\Debug\Lab1.exe
+E:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\bin\Debug\Lab1.pdb
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\bin\Debug\Lab1.exe.config
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\bin\Debug\Lab1.exe
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\bin\Debug\Lab1.pdb
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.Form1.resources
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.exe
+C:\БІП1-24\Гончар Кирило\OОП_Lab2\Lab1\obj\Debug\Lab1.pdb
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\bin\Debug\Lab1.exe.config
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\bin\Debug\Lab1.exe
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\bin\Debug\Lab1.pdb
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.exe
+D:\Новая папка\OOП.LAB\OОП_Lab2\Lab1\obj\Debug\Lab1.pdb
